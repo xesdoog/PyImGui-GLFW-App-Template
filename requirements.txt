@@ -1,0 +1,8 @@
+glfw
+imgui
+numpy
+opencv-python
+PyOpenGL
+PyOpenGL_accelerate
+pywin32
+win11toast
