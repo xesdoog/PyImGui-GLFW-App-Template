@@ -1,7 +1,7 @@
 name: Example Release
 
 on: 
-  push:
+  # push:
     # paths:
     #   - "**.py"
   workflow_dispatch:
